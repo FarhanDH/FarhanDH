@@ -1,4 +1,4 @@
-## Hi there 👋 My name is **Farhan Dwi Hartanto**.<br>
+## Hi there 👋 
 
 My name is **Farhan Dwi Hartanto**.<br>
 
