@@ -1,26 +1,45 @@
-## Hi there 👋 
+<h1 align="center">Hi there, I'm Farhan Dwi Hartanto 👋</h1>
+<h3 align="center">Back-End Developer | Cloud Enthusiast</h3>
 
-My name is **Farhan Dwi Hartanto**.<br>
+<div align="center">
+  <a href="https://github.com/farhandh">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Building+Scalable+Backend+Systems;Focused+on+Problem-Solving+Frameworks;" alt="Typing SVG" />
+  </a>
+</div>
 
-I'm a **Back-End Developer**.<br>
+---
 
-## 🧰 &nbsp;My Tech Stack
-  <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="50px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a>
-  <a href="https://nodejs.org/"><img align="left" alt="NodeJS" title="NodeJS" width="50px" src="https://seeklogo.com/images/N/nodejs-logo-FBE122E377-seeklogo.com.png" /></a>
-  <a href="https://www.java.com//"><img align="left" alt="Java" title="NodeJS" width="50px" src="https://github.com/Abizar14/saykost-java/assets/115654535/573311cd-d507-4b48-9f2c-1aa4e1436a2c" /></a>
-  <a href="https://nestjs.com/"><img align="left" alt="NestJS" title="NestJS (NodeJS HTTP Framework)" width="50px" src="https://nestjs.com/img/logo-small.svg" /></a>
-  <br>
-  <br>
+### 🧰 My Tech Stack
 
-## 📊 &nbsp;Stats
-<p align="left">
-<a href="https://github.com/farhandh">
-  <img height="280em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhandh&layout=pie&theme=algolia"/>  <br>
-  <img height="200em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=farhandh&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-</a>
-</p>
+**Languages**<br>
+<img src="https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" alt="JavaScript" />
+<img src="https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+<img src="https://img.shields.io/badge/go-%2300ADD8.svg?style=for-the-badge&logo=go&logoColor=white" alt="Go" />
+<img src="https://img.shields.io/badge/SQL-%23336791.svg?style=for-the-badge&logo=postgresql&logoColor=white" alt="SQL" />
 
-## 🔗 &nbsp;Links
-<a href="https://www.linkedin.com/in/farhan-dwi-hartanto-8074ba292"><img align="left" alt="LinkedIn" title="LinkedIn" width="48px" src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-48.png" /></a>
-<a href="mailto:farhandwihartanto@gmail.com"><img align="left" alt="E-Mail" title="E-Mail" width="55px" src="https://img.icons8.com/color/57/00000/gmail.png" /></a>
-<a href="https://www.instagram.com/farhandwihartanto"><img align="left" alt="E-Mail" title="E-Mail" width="48px" src="https://cdn2.iconfinder.com/data/icons/social-media-applications/64/social_media_applications_3-instagram-48.png" /></a>
+**Frameworks & Runtime**<br>
+<img src="https://img.shields.io/badge/nestjs-%23E0234E.svg?style=for-the-badge&logo=nestjs&logoColor=white" alt="NestJS" />
+<img src="https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white" alt="NodeJS" />
+
+**DevOps, Cloud & Tools**<br>
+<img src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
+<img src="https://img.shields.io/badge/Google%20Cloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white" alt="GCP" />
+<img src="https://img.shields.io/badge/jenkins-%232C5263.svg?style=for-the-badge&logo=jenkins&logoColor=white" alt="Jenkins" />
+<img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" alt="Linux/WSL" />
+
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=farhandh&show_icons=true&theme=algolia&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=farhandh&layout=compact&theme=algolia&hide_border=true" alt="Top Langs"/>
+</div>
+
+---
+
+### 📫 Let's Connect!
+
+<a href="https://www.linkedin.com/in/farhan-dwi-hartanto-8074ba292"><img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
+<a href="mailto:farhandwihartanto@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
+<a href="https://www.instagram.com/farhandwihartanto"><img src="https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white" alt="Instagram"/></a>
